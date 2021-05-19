@@ -10,7 +10,7 @@
      <th>Symptoms</th>
      </tr>
      <tr>
-     <td>A</td>
+        <td><a href = "catA.md">A</a></td>
      <td>Mild sore throat/cough/rhinitis/diarrhoea</td>
      </tr>
      <tr>
